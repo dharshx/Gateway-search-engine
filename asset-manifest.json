@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dharshx/Gateway-search-engine.git/static/css/main.cb9a92f3.css",
+    "main.js": "/dharshx/Gateway-search-engine.git/static/js/main.a7b3aff5.js",
+    "index.html": "/dharshx/Gateway-search-engine.git/index.html",
+    "main.cb9a92f3.css.map": "/dharshx/Gateway-search-engine.git/static/css/main.cb9a92f3.css.map",
+    "main.a7b3aff5.js.map": "/dharshx/Gateway-search-engine.git/static/js/main.a7b3aff5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb9a92f3.css",
+    "static/js/main.a7b3aff5.js"
+  ]
+}
