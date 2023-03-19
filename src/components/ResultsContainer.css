@@ -1,0 +1,12 @@
+/* .results-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px 40px;
+} */
+.results-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px 40px;
+}
