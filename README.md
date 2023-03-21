@@ -1,3 +1,13 @@
+# About the Project 
+
+The code follows a modular architecture, with separate modules for indexing, searching, querying, and UI components. 
+
+This allows for easy customization and extension of the search engine's functionality.
+
+The code uses advanced indexing techniques such as sharding, which distributes the index across multiple machines to improve search performance, and caching, which stores frequently accessed data in memory for faster retrieval. 
+
+These techniques help improve search performance and scalability.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
