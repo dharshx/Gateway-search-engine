@@ -1,12 +1,35 @@
-# About the Project 
+# Gateway Search Engine
 
-The code follows a modular architecture, with separate modules for indexing, searching, querying, and UI components. 
+This is a web application that allows users to search for information on various topics using multiple search engines simultaneously. It was built using React and CSS.
+
+The code follows a modular architecture, with separate modules for indexing, searching, querying, and UI components.
 
 This allows for easy customization and extension of the search engine's functionality.
 
-The code uses advanced indexing techniques such as sharding, which distributes the index across multiple machines to improve search performance, and caching, which stores frequently accessed data in memory for faster retrieval. 
+The code uses advanced indexing techniques such as sharding, which distributes the index across multiple machines to improve search performance, and caching, which stores frequently accessed data in memory for faster retrieval.
 
 These techniques help improve search performance and scalability.
+
+# How to Navigate this Project
+
+1. public folder: contains the HTML and CSS files for the application.
+2. src folder: contains the JavaScript files for the application.
+3. src/components: contains the React components used to build the application.
+
+# Why I Built the Project this Way
+
+I built this project using React because it allows for fast and efficient development of complex user interfaces. 
+
+Additionally, React's component-based architecture made it easy to manage and reuse code throughout the project.
+
+I used CSS for styling because it provides a flexible and powerful way to customize the look and feel of the application. 
+
+
+# If I Had More Time, I Would Change This
+
+If I had more time, I would add more search engines to the application to provide a more comprehensive search experience. 
+
+Additionally, I would like to improve the UI/UX of the application by adding more animations and user feedback.
 
 # Getting Started with Create React App
 
