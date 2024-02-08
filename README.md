@@ -24,13 +24,6 @@ Additionally, React's component-based architecture made it easy to manage and re
 
 I used CSS for styling because it provides a flexible and powerful way to customize the look and feel of the application. 
 
-
-# If I Had More Time, I Would Change This
-
-If I had more time, I would add more search engines to the application to provide a more comprehensive search experience. 
-
-Additionally, I would like to improve the UI/UX of the application by adding more animations and user feedback.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
